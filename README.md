@@ -9,3 +9,5 @@ The repository consists of the following.
 Additional Requirements-
 - The model may require a GPU to run. I used P400 for inference. You can set the gpu argument to False and check.
 - Please install TTS library before running the code. Use the command pip install TTS.
+
+The instructions to use the code has been described using comments.
